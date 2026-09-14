@@ -1,3 +1,21 @@
+<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<div align="center">
+
+![realtime — 3D](assets/3d-hero.svg)
+
+**made by [Mayank Bhaskar](https://github.com/qtjg)** · ![lang](https://img.shields.io/badge/lang-Code-8b5cf6?style=flat&labelColor=0d1117) ![stars](https://img.shields.io/github/stars/qtjg/realtime?style=flat&labelColor=0d1117&color=8b5cf6)
+
+### 🧊 3D View
+
+![realtime — isometric stack](assets/3d-stack.svg)
+
+*Floating isometric render — layers hover, data particles stream, shine sweeps.*
+
+</div>
+
+---
+🩺 **New tool — `repo-pulse`**: instant git pulse (28-day heat bars, hot files, contributors). Run: `python3 tools/repo_pulse.py`
+
 <br />
 <p align="center">
   <a href="https://supabase.io">
