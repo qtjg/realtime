@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/3d-banner.svg" alt="realtime 3D banner" width="880" />
+</p>
+
 <!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
 <div align="center">
 
@@ -101,6 +105,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Code of Conduct
 
 See [supabase/CODE_OF_CONDUCT.md](https://github.com/supabase/.github/blob/main/CODE_OF_CONDUCT.md)
+
+
+---
+
+## 🧊 3D Visuals
+
+<p align="center">
+  <img src="docs/assets/3d-langs.svg" alt="realtime — 3D language stack" width="800" />
+</p>
+
+Isometric 3D language stack computed from live GitHub language stats.
+Regenerate the graphics any time with the built-in generator — stdlib only, zero dependencies:
+
+```bash
+python tools/generate_3d_assets.py
+```
 
 ## License
 
